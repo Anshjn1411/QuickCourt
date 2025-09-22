@@ -11,19 +11,19 @@ A comprehensive mobile platform for booking and managing local sports facilities
 ## 📱 Screenshots
 
 <div align="center">
-  <img src="assets/s1.png" width="200" alt="Screenshot 1"/>
-  <img src="assets/s2.png" width="200" alt="Screenshot 2"/>
-  <img src="assets/s3.png" width="200" alt="Screenshot 3"/>
+  <img src="assets/s1.jpg" width="200" alt="Screenshot 1"/>
+  <img src="assets/s2.jpg" width="200" alt="Screenshot 2"/>
+  <img src="assets/s3.jpg" width="200" alt="Screenshot 3"/>
 </div>
 <div align="center">
-  <img src="assets/s4.png" width="200" alt="Screenshot 4"/>
-  <img src="assets/s5.png" width="200" alt="Screenshot 5"/>
-  <img src="assets/s6.png" width="200" alt="Screenshot 6"/>
+  <img src="assets/s4.jpg" width="200" alt="Screenshot 4"/>
+  <img src="assets/s5.jpg" width="200" alt="Screenshot 5"/>
+  <img src="assets/s6.jpg" width="200" alt="Screenshot 6"/>
 </div>
 <div align="center">
-  <img src="assets/s7.png" width="200" alt="Screenshot 4"/>
-  <img src="assets/s8.png" width="200" alt="Screenshot 5"/>
-  <img src="assets/s9.png" width="200" alt="Screenshot 6"/>
+  <img src="assets/s7.jpg" width="200" alt="Screenshot 4"/>
+  <img src="assets/s8.jpg" width="200" alt="Screenshot 5"/>
+  <img src="assets/s9.jpg" width="200" alt="Screenshot 6"/>
 </div>
 
 ## ✨ Features
