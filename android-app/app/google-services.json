@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "327046478808",
+    "project_id": "ecommercefire-fbb4b",
+    "storage_bucket": "ecommercefire-fbb4b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:327046478808:android:44b8f7f0953b33c68290ad",
+        "android_client_info": {
+          "package_name": "com.project.ecommerceLocal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCULBC3rMO_Kg88b_-b6BI1ZTPNEYlWvF8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:327046478808:android:7b5d5afaad3f85dc8290ad",
+        "android_client_info": {
+          "package_name": "com.project.odoohackthon"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCULBC3rMO_Kg88b_-b6BI1ZTPNEYlWvF8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

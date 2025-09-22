@@ -1,0 +1,30 @@
+# === Android / Kotlin ===
+.gradle/
+.idea/
+local.properties
+/captures
+/build/
+*.iml
+*.apk
+*.dex
+*.class
+*.log
+
+# === Node.js / backend ===
+node_modules/
+.env
+dist/
+*.log
+
+# === Web dashboard ===
+node_modules/
+dist/
+
+# === Common / OS / Editors ===
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*.tmp
+*.bak
+*.orig

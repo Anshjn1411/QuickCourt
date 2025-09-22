@@ -1,0 +1,68 @@
+# === ANDROID / KOTLIN ===
+.gradle/
+.idea/
+local.properties
+/.gradle
+/.idea
+/.cxx
+/captures
+*.iml
+*.apk
+*.ap_
+*.dex
+*.class
+*.log
+
+# Android Studio build
+/build/
+*/build/
+*.keystore
+*.jks
+
+# Generated files
+*.so
+*.lock
+*.DS_Store
+
+# === NODE BACKEND ===
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+package-lock.json
+yarn.lock
+.pnpm-debug.log
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Logs
+logs
+*.log
+logs/*.log
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Coverage / test
+coverage/
+.nyc_output/
+.vscode/
+dist/
+build/
+
+# === OS / EDITORS ===
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*.tmp
+*.bak
+*.orig
+
+# === MISC ===
+/out
